@@ -18,7 +18,7 @@ DCampos07
 <li><a href="#tests">Tests</a></li> 
   
 <h2 id= "description">Description</h2>
-Back end for an e-commerce site by using Express.js API and configuring it to use Sequelize to interact with a MySQL database.
+This weeks challenge was to take a "fully functioning Google Books API search engine built with a RESTful API, and refactored it to be a GraphQL API built with Apollo Server. The app was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API."
 
 <h2 id= "installation">Installation</h2>
 
