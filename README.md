@@ -35,11 +35,8 @@ From the project root folder enter the the following command: \
   
 <h2 id= "demo">Demo</h2>
 
-<img src="https://github.com/DCampos07/online-store/blob/main/Develop/Assets/get%20all.gif" alt="gif video of app">
-<img src="https://github.com/DCampos07/online-store/blob/main/Develop/Assets/categories_post_put_delete.gif" alt="gif video of categories model">
-<img src="https://github.com/DCampos07/online-store/blob/main/Develop/Assets/products_post_put_delete.gif" alt="gif video of products model">
-<img src="https://github.com/DCampos07/online-store/blob/main/Develop/Assets/tags_post_put_delete.gif" alt="gif video of tags model">
-
+<img src="https://github.com/DCampos07/book-search/blob/main/assets/gif.gif" alt="gif video of app">
+<img src="https://github.com/DCampos07/book-search/blob/main/assets/screenshot.png" alt="screenshot image of app">
 
 <h2 id= "contact">Contact</h2>
 
@@ -52,7 +49,7 @@ From the project root folder enter the the following command: \
     
 <h2 id= "tests">Tests</h2>
 
-<li>Please use the following link to view the GET ALL ROUTES application demo video:(https://drive.google.com/file/d/1iFNDr1bIfXARgqqRH3AskacCdKPU81Iv/view?usp=sharing)</li>
+<li>Please use the following link to view the GET ALL ROUTES application demo video:(https://drive.google.com/file/d/1bNKcWybqNMryF87Yl5v1knQ6YwR042Ap/viewusp=sharing)</li>
 <li>Please use the following link to view the CATEGORIES Post, Put, and Delete application demo video:(https://drive.google.com/file/d/1cBIGWne8g1QWaX1mVS8WqEqA_SWXieGk/view?usp=sharing)</li>
 <li>Please use the following link to view the PRODUCTS Post, Put, and Delete application demo video:https://drive.google.com/file/d/1l3yYm_8WCwbPnv-lOgzbr1igZPMELxuN/view?usp=sharing)</li>
 <li>Please use the following link to view the TAGS Post, Put, and Delete application demo video:https://drive.google.com/file/d/1pN3ImPKRg86f5X2TQOKwARH2IJ0HSCB-/view?usp=sharing)</li>
