@@ -3,7 +3,7 @@
 <img align="right" width="100" height="100" src="https://avatars0.githubusercontent.com/u/68753563?s=400&u=db8ed5c85d35601b1cace358ee79fa43b9f12676&v=4" alt="Github Profile Image"><hr>
 
 ## Live Link
-N/A
+https://warm-waters-62049.herokuapp.com/
 
 ## Contributors
 DCampos07
@@ -21,11 +21,11 @@ DCampos07
 This weeks challenge was to take a "fully functioning Google Books API search engine built with a RESTful API, and refactored it to be a GraphQL API built with Apollo Server. The app was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API."
 
 <h2 id= "installation">Installation</h2>\
- `npm install`\
+ `npm install`
     
 <h2 id= "technology">Technology Stack</h2>
 This project was produced using the MERN stack.  In order to complete it I used: \
-Node.js, Express.js, REACT, Create React App, HTML, CSS, Javascript, Heroku, MongoDB, Mongoose,
+`Node.js, Express.js, REACT, Create React App, HTML, CSS, Javascript, Heroku, MongoDB, Mongoose,`
 
 
 <h2 id= "usage">Usage</h2>
@@ -35,8 +35,8 @@ From the project root folder enter the the following command: \
   
 <h2 id= "demo">Demo</h2>
 
-<img src="https://github.com/DCampos07/book-search/blob/main/assets/gif.gif" alt="gif video of app">
 <img src="https://github.com/DCampos07/book-search/blob/main/assets/screenshot.png" alt="screenshot image of app">
+<img src="https://github.com/DCampos07/book-search/blob/main/assets/gif.gif" alt="gif video of app">
 
 <h2 id= "contact">Contact</h2>
 
@@ -49,7 +49,4 @@ From the project root folder enter the the following command: \
     
 <h2 id= "tests">Tests</h2>
 
-<li>Please use the following link to view the GET ALL ROUTES application demo video:(https://drive.google.com/file/d/1bNKcWybqNMryF87Yl5v1knQ6YwR042Ap/viewusp=sharing)</li>
-<li>Please use the following link to view the CATEGORIES Post, Put, and Delete application demo video:(https://drive.google.com/file/d/1cBIGWne8g1QWaX1mVS8WqEqA_SWXieGk/view?usp=sharing)</li>
-<li>Please use the following link to view the PRODUCTS Post, Put, and Delete application demo video:https://drive.google.com/file/d/1l3yYm_8WCwbPnv-lOgzbr1igZPMELxuN/view?usp=sharing)</li>
-<li>Please use the following link to view the TAGS Post, Put, and Delete application demo video:https://drive.google.com/file/d/1pN3ImPKRg86f5X2TQOKwARH2IJ0HSCB-/view?usp=sharing)</li>
+<li>Please use the following link to view the GET ALL ROUTES application demo video:(https://drive.google.com/file/d/1bNKcWybqNMryF87Yl5v1knQ6YwR042Ap/view)</li>
