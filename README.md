@@ -20,27 +20,18 @@ DCampos07
 <h2 id= "description">Description</h2>
 This weeks challenge was to take a "fully functioning Google Books API search engine built with a RESTful API, and refactored it to be a GraphQL API built with Apollo Server. The app was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API."
 
-<h2 id= "installation">Installation</h2>
-
-The following dependencies are required in order to run this app.\
- `npm install mysql2`\
-`npm install sequelize`\
-`npm install dotenv`
+<h2 id= "installation">Installation</h2>\
+ `npm install`\
     
 <h2 id= "technology">Technology Stack</h2>
+This project was produced using the MERN stack.  In order to complete it I used: \
+Node.js, Express.js, REACT, Create React App, HTML, CSS, Javascript, Heroku, MongoDB, Mongoose,
 
-MERN
-  
+
 <h2 id= "usage">Usage</h2>
 
- In order to run this application you would need to install MySQL in your environment. \
- Then, from the project root folder enter the sql shell and run the following command: \
- `source db/schema.sql`\
- Exit the sql shell and return to the command line still within your root project folder. \
- Run the following commands:\
- `npm run seed`\
+From the project root folder enter the the following command: \
  `npm start`
-
   
 <h2 id= "demo">Demo</h2>
 
